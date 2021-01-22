@@ -1,14 +1,3 @@
 # gitPractice
 
-This is gitPractice Repository.
-<<<<<<< HEAD
-=======
-
-
-
-1. branch1 has been made
-
-   ~~~~
-   
-   ~~~~
->>>>>>> main
+전체수정은 가능할까
